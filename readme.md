@@ -15,3 +15,5 @@ Watch tutorial on youtube.
 
 ### it will be displayed after my_try branch
 Git is such a cool tool
+
+#### let's get it to work, last time and im going further
