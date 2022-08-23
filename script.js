@@ -1,1 +1,2 @@
-console.log('Does it work?')
+console.log('Does it work?');
+return 0;
